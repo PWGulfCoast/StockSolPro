@@ -1,6 +1,6 @@
 Excel Spreadsheet based on Flores'  yet-another-nutrient-calculator
 
-Should compair with YANC as far as calculated values are concerned.
+Should compare with YANC as far as calculated values are concerned.
 Accepts input of tank volume in liters, Imp gallons, and US gallons and converts to each from each as selected. 
      w/spin button
 Accepts input of solution volume in ml (enter 1 for dry dosing).
