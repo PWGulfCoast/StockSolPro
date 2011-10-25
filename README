@@ -1,0 +1,15 @@
+Excel Spreadsheet based on Flores'  yet-another-nutrient-calculator
+
+Should compair with YANC as far as calculated values are concerned.
+Accepts input of tank volume in liters, Imp gallons, and US gallons and converts to each from each as selected. 
+     w/spin button
+Accepts input of solution volume in ml (enter 1 for dry dosing).
+Accepts input of dose volume in ml (enter 1 for dry dosing).
+Calculates total doses in solution.
+Accepts input of components from pulldown list
+Allows up to 10 components in a solution.
+Accepts input of quantity of component in either mg for dry components or ml for wet components. w/spin buttons
+Totalizes contributions from several components (KNO3, KH2PO4, K2SO4) to individual parameters (K).
+Comparison graphing against EI, PPS, PMDD, and Walstad for 7 parameters (NO3, PO4, K, Ca, Mg, Fe, Mn)
+Open source
+Open Office version in development.
